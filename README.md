@@ -16,20 +16,20 @@
 ##### peuChat is an anonymous chat app for anyone who does not want to reveal his or her identitiy. No personally identifiable information is revealed. A peu Id  is generated for every user which is the only way to connect to the other one. Chat and become friends
 
 
-# How to📲 Download SpotVital?
+# How to📲 Download peuChat?
 
 * Visit 👀 https://play.google.com/store/apps/details?id=com.e.chatingapp
 
 
 
-# ScreenShots💕
+# ScreenShots
 <p align="center">
   <a>
     <img src="./images/ss.png" width = "1400px"/>
   </a>
 </p>
 
-# How to Use ✔📲 SpotVital?
+# How to Use pueChat?
 
 * Step-1: Visit👀 https://play.google.com/store/apps/details?id=com.e.chatingapp
 * Step-2: Download the App ✔
@@ -43,7 +43,7 @@
 * Our team will help you 24X7😎😎
 
 # Retical © 
-## Developers
+#### Developers
 * 🧒🏻 Rhythm Verma :https://github.com/ritmojs
 
 
