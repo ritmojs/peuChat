@@ -10,10 +10,10 @@
  
 </p>
 
-## What is SpotVital?
+## What is peuChat?
 * peuChat -The most trusted anonymous👀 chating app.
 
-#### peuChat is an anonymous chat app for anyone who does not want to reveal his or her identitiy. No personally identifiable information is revealed. A peu Id  is generated for every user which is the only way to connect to the other one. Chat and become friends
+##### peuChat is an anonymous chat app for anyone who does not want to reveal his or her identitiy. No personally identifiable information is revealed. A peu Id  is generated for every user which is the only way to connect to the other one. Chat and become friends
 
 
 # How to📲 Download SpotVital?
@@ -50,7 +50,7 @@
 
 # ThankYou ❤
 <p align="center">
-<img src="./logo.png" width="200" height ="200">
+<img src="./images/logo.png" width="200" height ="200">
 </p>
 
 <h1 align="center">
